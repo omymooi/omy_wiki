@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/tchip/project/mtkopenwrt/mtksdk-openwrt-3.10.14/package/kernel/linux'
+let g:netrw_dirhist_2='/home/tchip/project/mtkopenwrt/mtksdk-openwrt-3.10.14/package/kernel/i2c-gpio-custom'
+let g:netrw_dirhist_3='/usr/local/bin'
+let g:netrw_dirhist_4='/usr/lib/cgi-bin'
+let g:netrw_dirhist_5='/home/tchip/project/mtkopenwrt/bak/firecar-ctrl'
+let g:netrw_dirhist_6='/home/tchip/project/openwrt/openwrt/build_dir/target-mipsel_1004kc+dsp_uClibc-0.9.33.2/linux-ramips_mt7621/linux-3.14.30'
+let g:netrw_dirhist_7='/home/tchip/project/mt7621/openwrt/openwrt/feeds/firefly_packages/firecar-ctrl'
+let g:netrw_dirhist_8='/home/tchip/project/mt7621/publicopenwrt/openwrt/build_dir/target-mipsel_1004kc+dsp_uClibc-0.9.33.2/linux-ramips_mt7621/linux-3.18.8'
